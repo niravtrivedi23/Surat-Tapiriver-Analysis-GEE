@@ -5,8 +5,7 @@ Analyzing river sustainability using satellite imagery and remote sensing techni
 ---
 
 ## 🌍 Google Earth Engine Script  
-**View Google Earth Engine Script**  
-🔗 [Click to Open](https://code.earthengine.google.com/8514d9091df89e8919515f7c53881ac9)
+[View Google Earth Engine Script](https://code.earthengine.google.com/8514d9091df89e8919515f7c53881ac9)
 
 ---
 
@@ -16,18 +15,18 @@ Analyzing river sustainability using satellite imagery and remote sensing techni
 This repository contains the research work **"Tapi River Sustainability: Surat's Lifeline and Beyond"**, conducted by students of **M.Sc. (Applied Statistics)** semester-4 at **Veer Narmad South Gujarat University (V.N.S.G.U.)**, Surat, Gujarat.
 
 **Project Group:**
-- Trivedi Nirav  
-- Dekani Nikunjkumar  
-- Mayat Sadiya  
-- Rakholiya Dhruvi  
-- Sukla Atish  
+- **Trivedi Nirav**  
+- **Dekani Nikunjkumar**  
+- **Mayat Sadiya**  
+- **Rakholiya Dhruvi**  
+- **Sukla Atish**  
 
 **Project Guide**: Sahil Merai  
 **Project Year**: 2023-24
 
 ---
 
-## 🧪 Introduction
+##  Introduction
 
 This study utilizes satellite imagery to analyze the sustainability of the Tapi River, focusing on turbidity levels and river width changes. It contributes to:
 
@@ -63,11 +62,11 @@ Surat is a major commercial hub in Gujarat, where the **Tapi River spans ~20 km.
 
 ### 1. Turbidity Trends (2019-2023)
 
-- Highest turbidity at Dabholi Bridge (May 2023)  
-- Lowest turbidity at Dummas Road-2 (January 2023)  
-- Post-monsoon peaks (October-December), declines in winter & summer  
-- Stable zones: Kathor, Savji Korat Bridge  
-- Fluctuating zones: Amboli  
+- **Highest turbidity** at **Dabholi Bridge (May 2023)**  
+- **Lowest turbidity** at **Dummas Road-2 (January 2023)**  
+- **Post-monsoon peaks (October-December), declines in winter & summer**  
+- **Stable zones**: Kathor, Savji Korat Bridge  
+- **Fluctuating zones**: Amboli  
 
 **NDTI Heatmap - Tapi River, Surat**  
 ![NDTI Heatmap](https://github.com/niravtrivedi23/Surat-Tapiriver-Analysis-GEE/blob/main/Visualization/HeatMap%20Tapi%20River%20Surat%20NDTI.png)
@@ -79,10 +78,10 @@ Surat is a major commercial hub in Gujarat, where the **Tapi River spans ~20 km.
 
 ### 2. River Width Variability (1987-2021)
 
-- Widest point: Jahangirpura (2002)  
-- Narrowest point: Gorat (2020)  
-- Stable areas: Kamrej, Rustombaug to Adajan Bridge  
-- Significant fluctuations: Jahangirpura, Variyav Bridge to Dabholi Bridge  
+- **Widest point**: Jahangirpura (2002)  
+- **Narrowest point**: Gorat (2020)  
+- **Stable areas**: Kamrej, Rustombaug to Adajan Bridge  
+- **Significant fluctuations**: Jahangirpura, Variyav Bridge to Dabholi Bridge  
 
 **Width Heatmap - Tapi River, Surat**  
 ![Width Heatmap](https://github.com/niravtrivedi23/Surat-Tapiriver-Analysis-GEE/blob/main/Visualization/HeatMap%20Tapi%20River%20Surat%20Width.png)
@@ -104,37 +103,38 @@ Recent Observations: The Rundh area has seen a steady increase in width since 19
 
 ---
 
-## 📜 Policy Recommendations
+##  Policy Recommendations
 
-- Integrated River Management: Combining pollution control and urban planning  
-- Stricter Water Quality Standards: Regular monitoring and enforcement  
-- Sustainable Riverfront Development: Eco-friendly urban infrastructure  
-- Public Awareness: Educating communities on river conservation  
-- Remote Sensing-Based Decision Making: Using real-time data for policy action  
+- **Integrated River Management**: Combining pollution control and urban planning  
+- **Stricter Water Quality Standards**: Regular monitoring and enforcement  
+- **Sustainable Riverfront Development**: Eco-friendly urban infrastructure  
+- **Public Awareness**: Educating communities on river conservation  
+- **Remote Sensing-Based Decision Making**: Using real-time data for policy action  
 
 ---
 
-## 🔮 Future Work & Recommendations
+##  Future Work & Recommendations
 
-- Long-Term Monitoring: Continuous tracking of river width and turbidity  
-- Expanded Water Quality Assessments: Identifying pollution hotspots  
-- IoT-Based Monitoring: Deploying sensors for real-time data collection  
-- Sustainable Urban Development: Enhancing green infrastructure along stable riverfront areas  
+- **Long-Term Monitoring**: Continuous tracking of river width and turbidity  
+- **Expanded Water Quality Assessments**: Identifying pollution hotspots  
+- **IoT-Based Monitoring**: Deploying sensors for real-time data collection  
+- **Sustainable Urban Development**: Enhancing green infrastructure along stable riverfront areas  
 
 ---
 
 ## ✅ Conclusion
 
-The research highlights the critical need for sustainable water management using remote sensing. Surat must prioritize water conservation efforts, strict pollution controls, and data-driven policy-making to ensure the Tapi River’s long-term health.
+The research highlights the critical need for **sustainable water management** using remote sensing. Surat must prioritize water conservation efforts, strict pollution controls, and data-driven policy-making to ensure the Tapi River’s long-term health.
 
 ---
 
 ##  Repository Contents
 
-### 📄 Project Documents
+###  Project Documents
 
 - [SDG - 14 Life Below Water](https://github.com/niravtrivedi23/Surat-Tapiriver-Analysis-GEE/blob/main/Documents/SDG-14%20Life%20Below%20Water.pdf)  
-- [Executive Summary of SDG-14 Life Below Water](https://github.com/niravtrivedi23/Surat-Tapiriver-Analysis-GEE/blob/main/Documents/Executive%20Summary%20SDG-14%20Life%20Below%20Water%20(1).pdf)  
+- [Executive Summary of SDG-14 Life Below Water](https://github.com/niravtrivedi23/Surat-Tapiriver-Analysis-GEE/blob/main/Documents/Executive%20Summary%20SDG-14%20Life%20Below%20Water%20(1).pdf)
+###  Analysis Workflow
 - [River Health Insights Analysis Workflow](https://github.com/niravtrivedi23/Surat-Tapiriver-Analysis-GEE/blob/main/Documents/FLOW%20CHART.pdf)
 
 ---
@@ -152,3 +152,36 @@ The research highlights the critical need for sustainable water management using
 
 ---
 
+###  Tools Used
+
+<table>
+  <tr>
+    <td align="center"><img src="[https://img.icons8.com/color/48/google-earth-engine.png](https://camo.githubusercontent.com/8b421fcc24457d76ab5d09481737d85e1cb3a46918a534392cc3cc0899159786/68747470733a2f2f6561727468656e67696e652e676f6f676c652e636f6d2f7374617469632f696d616765732f476f6f676c654561727468456e67696e655f477265795f3130382e706e67)" alt="Google Earth Engine"/><br/>Google Earth Engine</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/python.png" alt="Python"/><br/>Python</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/><br/>JavaScript</td>
+    <td align="center"><img src="https://img.icons8.com/office/48/ms-excel.png" alt="Excel"/><br/>Excel</td>
+  </tr>
+</table>
+
+---
+
+
+## 🙌 Acknowledgments
+
+We sincerely thank our project guide **Mr. Sahil Merai** for his valuable guidance and support throughout the project.
+
+---
+
+## 📬 Connect With Us
+
+If you found this project insightful or have suggestions, feel free to connect or share feedback.
+
+📧 Email: niravtrivedi069@gmail.com  
+🔗 GitHub: [@niravtrivedi23](https://github.com/niravtrivedi23)  
+🔗 LinkedIn: [Trivedi Nirav](https://www.linkedin.com/in/trivedi-nirav-a1760424b)
+
+---
+
+### 🌍 Final Note
+
+**Join us in sustainable water research using remote sensing and data analytics! 🚀🌊**
