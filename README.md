@@ -172,7 +172,7 @@ We sincerely thank our project guide **Mr. Sahil Merai** for his valuable guidan
 
 ---
 
-## 📬 Connect With Us
+## 📬 Connect 
 
 If you found this project insightful or have suggestions, feel free to connect or share feedback.
 
